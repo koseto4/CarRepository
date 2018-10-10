@@ -1,0 +1,33 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<CarSystem.Web.Models.CarsMod.CarViewModel>
+
+
+@*@{
+    ViewBag.Title = @car."@Modelcars";
+}*@
+<h2>@ViewBag.Title</h2>
+
+@foreach (var car in Model)
+{
+    ViewBag.Title = car.Brand+ "cars";
+
+    <div class="row">
+        <div class="col-md-7">
+            <a href="@Url.Action("GetCar", "Car",  new { car.Id }, null)">
+                <img class="img-fluid rounded mb-3 mb-md-0" src="@Url.Content("~/Images/"+ @car.PicturePath)" style="width: 70%" alt="">
+            </a>
+        </div>      
+        <div class="col-md-5 text-center">
+            <h3>Brand: @car.Brand </h3>
+            <p>Engine: @car.Engine</p>
+            <p>Price: @car.Price</p>
+            <p>Mileage:@car.Mileage km</p>
+            <p>Description:@car.Description</p>
+            <a class="btn btn-primary" href="@Url.Action("GetCar", "Car",  new { car.Id }, null)">View Product</a>
+        </div>
+    </div>
+    <hr />
+}
+<div align="center">
+    @Html.PagedListPager(Model, page => Url.Action("GetCars", new { page }))
+</div>

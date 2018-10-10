@@ -1,0 +1,29 @@
+﻿<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("CarSystem", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("VW", "GetCars", "Car",new {id="1"},null)</li>
+                <li>@Html.ActionLink("Audi", "GetCars", "Car", new { id = "2" }, null)</li>
+                <li>@Html.ActionLink("BMW", "GetCars", "Car", new { id = "3" }, null)</li>
+                <li>@Html.ActionLink("Mercedes", "GetCars", "Car", new { id = "4" }, null)</li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li>@Html.ActionLink("Add New Car", "AddCar", "Car", new { area = string.Empty }, null)</li>
+
+                }
+                <li>@Html.ActionLink("View All Cars", "ViewAllCars", "Car")</li>
+                <li>@Html.ActionLink("About", "About", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+            @Html.Partial("_LoginPartial")
+        </div>
+    </div>
+</div>

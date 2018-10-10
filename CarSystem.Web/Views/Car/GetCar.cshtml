@@ -1,0 +1,31 @@
+﻿@model CarSystem.Web.Models.CarsMod.CarViewModel
+
+<h1 style="color:navy Background currentColor cornsilk" class="text-center md-4">
+    Best Cars!!!
+</h1>
+
+<div class="row">
+    <div class="col-md-8">
+        <img class="img-fluid img-responsive" src="@Url.Content("~/Images/"+ @Model.PicturePath)" alt="" />
+        <h2>
+            Date of Manufacturer @Model.Year year.
+        </h2>
+    </div>
+    <div class="col-md-4 text-center">
+        <h3 class="my-5"> @Model.Brand @Model.CarModel</h3>
+        <p>@Model.Description</p>
+        <h3 class="my-3">Car Details</h3>
+        <ul>
+            <li>Engine: @Model.Engine</li>
+            <li>Milleage: @Model.Mileage km</li>
+            <li>Price: @Model.Price lv</li>
+        </ul>
+    </div>
+
+    <div align="center">
+        <a class="btn btn-primary" href="@Url.Action("Picture","Car",new { Model.Id }, null)">
+             Look at more pictures
+        </a>
+    </div>
+
+</div>

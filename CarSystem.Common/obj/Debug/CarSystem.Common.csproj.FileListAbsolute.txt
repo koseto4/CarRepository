@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Common\bin\Debug\CarSystem.Common.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Common\bin\Debug\CarSystem.Common.pdb
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.pdb
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Common\bin\Debug\CarSystem.Common.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Common\bin\Debug\CarSystem.Common.pdb
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.csprojResolveAssemblyReference.cache
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.csproj.CoreCompileInputs.cache
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Common\obj\Debug\CarSystem.Common.pdb

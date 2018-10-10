@@ -1,0 +1,62 @@
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.dll.config
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.pdb
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.pdb
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.pdb
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Common.dll
+c:\users\user\documents\visual studio 2015\Projects\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Common.pdb
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.dll.config
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.pdb
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Common.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Common.pdb
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.pdb
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.dll.config
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.dll
+C:\Users\Boyan\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.pdb
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.pdb
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.dll.config
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Data.pdb
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Common.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Common.pdb
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\CarSystem.Models.pdb
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.Migrations.asdas.resources
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.Migrations._5467.resources
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.Migrations._54.resources
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.Migrations._43242.resources
+C:\Users\User\Desktop\FootballSystem\CarSystem.Data\obj\Debug\CarSystem.Data.Migrations._6542321.resources
